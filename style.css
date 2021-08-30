@@ -1,0 +1,22 @@
+body
+{
+background-color: yellowgreen;
+margin: auto;
+padding: 10PX 15px;
+font-size: large;
+font-family: 'Times New Roman', Times, serif;
+}
+table
+{
+  border-style: solid;
+  border-top-color: black;
+}
+  td{
+   
+  border-color: black 
+  border-top: 3px solid black; 
+  border-right: 3px solid black;
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+    padding: 20px;
+}
