@@ -9,8 +9,13 @@ _petit à petit l'oiseau fait son nid_.
 |QUESTION                    |REPONSE          |
 ------------------------------------------------
 |Birthday: dd/mm             |                 |
+-----------------------------------------------                        
 |Gender: ?                   |                 |
+|                            |                 |
 |Favorite color: ?           |                 |
+|                            |                 |
 |Favorite food: ?            |                 |
+|                            |                 |
 |pinneaple on pizza yes/not  |                 |
+|                            |                 |
 |hobbies                     |                 |
