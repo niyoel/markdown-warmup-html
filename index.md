@@ -10,7 +10,24 @@ _petit à petit l'oiseau fait son nid_.
 | Gender: ?                  |                       |      
 | Favorite color: ?          |                       |
 |Favorit food                |                       |
-|Pinneaple on pizza          |                       |
+##Pinneaple on Piza? []yes []Non
+### Hobies
+- Mouvies
+ * Indian movies
+ * nigerian movies
+ * Action movies
+ - Musique 
+ * Country musique 
+ * slow francais
+ * Rap
+ #### You can alwayse count on when you need an event organiser
+ - Wedding 
+ - Birthdays
+ - Group trip 
+
+
+
+
 
 
 
