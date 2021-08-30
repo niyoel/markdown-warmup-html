@@ -6,7 +6,8 @@ _petit à petit l'oiseau fait son nid_.
 ## me and my self i am proud to be what i am now 
 
  
-|QUESTION                    |REPONSE
+|QUESTION                    |REPONSE          |
+------------------------------------------------
 |Birthday: dd/mm             |                 |
 |Gender: ?                   |                 |
 |Favorite color: ?           |                 |
