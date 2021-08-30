@@ -13,13 +13,13 @@ _petit à petit l'oiseau fait son nid_.
 ##Pinneaple on Piza? []yes []Non
 ### Hobies
 - Mouvies
- * Indian movies
- * nigerian movies
- * Action movies
+  * Indian movies
+  * nigerian movies
+  * Action movies
  - Musique 
- * Country musique 
- * slow francais
- * Rap
+   * Country musique 
+   * slow francais
+   * Rap
  #### You can alwayse count on when you need an event organiser
  - Wedding 
  - Birthdays
