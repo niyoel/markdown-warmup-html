@@ -18,9 +18,14 @@ table , th, td
   border-collapse: collapse;
   text-transform: capitalize;
 }
-  ul, li, h1, h2, h3 
+  ul, li, h1, h2
   {
     text-transform: capitalize;
+  }
+  h3 
+  {
+    text-transform: capitalize;
+    font-style: italic;
   }
   
   
