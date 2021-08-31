@@ -1,22 +1,26 @@
 body
 {
 background-color: yellowgreen;
-margin: auto;
-padding: 10PX 15px;
+margin: 90px;
+padding: 10PX;
 font-size: large;
 font-family: 'Times New Roman', Times, serif;
 }
 table
 {
-  border-style: solid;
-  border-top-color: black;
+ height: 20%; 
 }
-  td{
-   
-  border-color: black 
-  border-top: 3px solid black; 
-  border-right: 3px solid black;
-  border-bottom: 3px solid black;
-  border-left: 3px solid black;
-    padding: 20px;
+table , th, td
+
+{
+  border: 1px solid black;
+  width: 30%;
+  border-collapse: collapse;
+  text-transform: capitalize;
 }
+  ul, li, h1, h2, h3 
+  {
+    text-transform: capitalize;
+  }
+  
+  
